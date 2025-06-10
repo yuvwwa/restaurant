@@ -176,3 +176,7 @@ Use **infinitive** structures:
 5. **Remember word order** changes in reported questions
 
 **Помните:** Косвенная речь - это не просто механическое изменение времен, но и передача смысла и намерения говорящего!
+
+
+
+![image](https://github.com/user-attachments/assets/1410e688-4e85-4486-91dd-c106b47fa6e7)
