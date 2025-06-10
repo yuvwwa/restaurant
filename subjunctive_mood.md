@@ -170,3 +170,7 @@
 
 **Type 3:** Past regret - *something didn't happen, but we imagine the result*
 *Сожаление о прошлом - что-то не произошло, но мы представляем результат*
+
+
+
+![image](https://github.com/user-attachments/assets/caa8f4f4-0edd-44d4-a5eb-51cfd7c8c015)
