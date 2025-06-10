@@ -59,7 +59,7 @@
 | Aquifer                 | Водоносный слой               |
 | Biodegradable           | Биологически разлагаемый      |
 | Biotechnology           | Биотехнологии                 |
-| CO2                     | Углекислый газ (CO₂)          |
+| CO2 (carbon dioxide)    | Углекислый газ (CO₂)          |
 | Compost                 | Компост                       |
 | Conservation            | Сохранение, охрана природы    |
 | Dead zone               | Мёртвая зона (в экосистеме)   |
